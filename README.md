@@ -47,8 +47,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn.
 The analysis revealed strong content growth around 2019, a heavy focus on movies, and increasing diversification in terms of countries producing Netflix content.
 
 ## Education
-Kist College of Management, Nepal
-Bachelor of Information Management (BIM) –   
+- Kist College of Management, Nepal
+Bachelor of Information Management (BIM)   
 2021-2025
 ---
 
