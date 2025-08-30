@@ -17,3 +17,46 @@ My CV [PDF](https://github.com/pjsama/Data-Analysis-Portfolio/blob/main/Prajwol'
 - Education  
 - Certificates  
 - Contact  
+## Portfolio Projects  
+
+### Netflix Movies & TV Shows EDA  
+
+- **Code**: [Netflix_EDA.ipynb](https://github.com/pjsama/Portfolio-Project/blob/main/Netflix_Data_Analysis.ipynb)  
+- **Report**: [Netflix EDA Report (PDF)](https://github.com/pjsama/Portfolio-Project/blob/main/netflix-eda-report.pdf)  
+
+**Goal:**  
+To analyze the Netflix dataset to identify trends, distribution of content, and viewer insights that can help understand Netflix’s content strategy.  
+
+**Description:**  
+The dataset includes information on over 8,000 movies and TV shows, with details such as title, director, cast, country, release year, rating, and duration.  
+The project involved data loading, cleaning, exploratory data analysis, and visualization of key insights.  
+
+**Key Insights:**  
+- Netflix added the most content in 2019.  
+- Movies make up the majority of the catalog (~70%).  
+- The United States and India are the top content producers.  
+- TV shows have been increasing over the years, signaling a shift in Netflix’s strategy.  
+
+**Skills:**  
+Data cleaning, data wrangling, exploratory data analysis (EDA), visualization, storytelling with data.  
+
+**Technology:**  
+Python, Pandas, NumPy, Matplotlib, Seaborn.  
+
+**Results:**  
+The analysis revealed strong content growth around 2019, a heavy focus on movies, and increasing diversification in terms of countries producing Netflix content.
+
+## Education
+- Bachelor of Information Management (BIM) – Tribhuvan University, Nepal  
+
+---
+
+## Certificates
+Data Analysis Training[png](https://github.com/pjsama/Portfolio-Project/blob/main/certificate.png)
+
+---
+
+## Contact
+- 📧 Email: prajwolgurung72@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/prajwol-gurung-146007326/)  
+- 🌐 Portfolio Website: [yourwebsite.com](https://pjsama.github.io/) 
