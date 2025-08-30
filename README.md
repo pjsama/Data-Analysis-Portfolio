@@ -6,17 +6,17 @@ My CV [PDF](https://github.com/pjsama/Data-Analysis-Portfolio/blob/main/Prajwol'
 
 ## Table of Contents
 - [About](https://github.com/pjsama/Data-Analysis-Portfolio/blob/main/README.md#about)
-- Portfolio Projects  
+- [Portfolio Projects](https://github.com/pjsama/Data-Analysis-Portfolio#portfolio-projects) 
   - Python  
-    - Netflix Movies & TV Shows Exploratory Data Analysis  
+    - [Netflix Movies & TV Shows Exploratory Data Analysis](https://github.com/pjsama/Data-Analysis-Portfolio#netflix-movies--tv-shows-eda)  
   - SQL *(coming soon)*  
   - R *(coming soon)*  
   - Excel / Google Sheets *(coming soon)*  
   - Tableau *(coming soon)*  
   - Power BI *(coming soon)*  
-- Education  
-- Certificates  
-- Contact  
+- [Education](https://github.com/pjsama/Data-Analysis-Portfolio#education)  
+- [Certificates](https://github.com/pjsama/Data-Analysis-Portfolio#education)  
+- [Contact](https://github.com/pjsama/Data-Analysis-Portfolio#contact)  
 ## Portfolio Projects  
 
 ### Netflix Movies & TV Shows EDA  
@@ -52,7 +52,7 @@ The analysis revealed strong content growth around 2019, a heavy focus on movies
 ---
 
 ## Certificates
-Data Analysis Training[png](https://github.com/pjsama/Portfolio-Project/blob/main/certificate.png)
+[Data Analysis Training Certificate](https://www.mindrisers.com.np/certificate/validate/MR-81009-DA)
 
 ---
 
