@@ -5,7 +5,7 @@ During my journey, I’ve gained experience working with structured and unstruct
 My CV [PDF](https://github.com/pjsama/Data-Analysis-Portfolio/blob/main/Prajwol's%20CV.pdf).
 
 ## Table of Contents
-- [About]([https://github.com/pjsama/Data-Analysis-Portfolio#data-analysis-portfolio](https://github.com/pjsama/Data-Analysis-Portfolio#about)) 
+- [About]((https://github.com/pjsama/Data-Analysis-Portfolio#about)) 
 - Portfolio Projects  
   - Python  
     - Netflix Movies & TV Shows Exploratory Data Analysis  
