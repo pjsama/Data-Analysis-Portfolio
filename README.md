@@ -48,7 +48,9 @@ The analysis revealed strong content growth around 2019, a heavy focus on movies
 
 ## Education
 Kist college of Management, Nepal: 
+
 Bachelor Of Information Management,
+
 2021 - 2025
 
 ---
