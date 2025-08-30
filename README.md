@@ -59,5 +59,5 @@ Bachelor of Information Management (BIM) –
 
 ## Contact
 - 📧 Email: prajwolgurung72@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/prajwol-gurung-146007326/)  
-- 🌐 Portfolio Website: [yourwebsite.com](https://pjsama.github.io/) 
+- 💼 LinkedIn: [https://www.linkedin.com/in/prajwol-gurung-146007326/](https://www.linkedin.com/in/prajwol-gurung-146007326/)  
+- 🌐 Portfolio Website: [https://pjsama.github.io/](https://pjsama.github.io/) 
